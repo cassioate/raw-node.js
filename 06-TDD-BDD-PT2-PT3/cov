@@ -1,0 +1,15 @@
+yarn run v1.22.10
+$ npx mocha -w --parallel ./test/**/*.test.js
+[?25l
+
+  CarService Suite Tests
+    √ should retrieve a random position from an array
+    √ should choose the first id from carIds in carCategory
+    √ given a carCategory it should return an available car
+    √ given a carCategory, customer and numberOfDays it should calculate final amount in real
+    √ given a customer and a car category it should return a transaction receipt
+
+
+  5 passing (344ms)
+
+[?25h[?25hDeseja finalizar o arquivo em lotes (S/N)? 
