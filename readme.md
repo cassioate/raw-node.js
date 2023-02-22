@@ -1,5 +1,7 @@
 DRY - Don't repeat yourself
+
 KISS - Keep it simple stupid
+
 YAGNI - You aren't gonna need it
 
 Clean Code JS: https://github.com/ryanmcdermott/clean-code-javascript
