@@ -1,10 +1,9 @@
-Clean Code JS: https://github.com/ryanmcdermott/clean-code-javascript
-
 DRY - Don't repeat yourself
 KISS - Keep it simple stupid
 YAGNI - You aren't gonna need it
 
 Clean Code JS: https://github.com/ryanmcdermott/clean-code-javascript
+
 Exemplos: https://levelup.gitconnected.com/javascript-clean-code-solid-9d135f824180
 https://dzone.com/articles/software-design-principles-dry-and-kiss
 http://www.macoratti.net/15/12/net_yagni1.htm
